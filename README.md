@@ -17,6 +17,7 @@ This project aims to develop an AI-powered medical tutor capable of generating o
 * **GraphQL:** For API modelling and efficient data querying.
 * **PostgreSQL:** for Database functions.
 * **Redis:** For caching.
+* **Lightning.ai Studio:** Development and Training environment.
 
 ## Project version 1 under development
 
